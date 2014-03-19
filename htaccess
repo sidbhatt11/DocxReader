@@ -1,0 +1,12 @@
+<Files *.docx> 
+Order Deny,Allow  
+Deny from All  
+</Files>
+
+<Files *.db> 
+Order Deny,Allow  
+Deny from All  
+</Files>
+
+ErrorDocument 404 404.html
+ErrorDocument 403 403.html
