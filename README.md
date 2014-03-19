@@ -1,6 +1,8 @@
 <h1>DOCX READER</h1>
 
 Live Demo : http://docx.siddharthbhatt.com
+
+Support : sidbhatt11@yahoo.in
  
 This is a very basic PHP Script that lets users upload and read text from .docx files. After all the features are added successfully, this script can be used in your organization as "your-own" free, mini document management system running on your own infrastructure.
 
