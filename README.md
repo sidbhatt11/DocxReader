@@ -27,7 +27,7 @@ I will start working on this script once my exams get over in May 2014. If you c
 <p>You may not want to read the following part..</p>
 Why did I develop this script ?
 
-I was bored in the class and had two project submissions pending. So I made this script in less than an hour and used the same for both the submissions. :=D 
+I was bored in the class and had two project submissions pending. So I made this script in less than an hour and used the same for both the submissions. :-D 
 
 What did I do ?
 
