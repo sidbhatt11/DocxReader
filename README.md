@@ -4,6 +4,16 @@ Live Demo : http://docx.siddharthbhatt.com
  
 This is a very basic PHP Script that lets users upload and read text from .docx files. After all the features are added successfully, this script can be used in your organization as "your-own" free, mini document management system running on your own infrastructure.
 
+====
+
+Installation :
+
+- Run : /_installation/_install.php
+- Give appropriate permissions to folder 'files' and the file 'users.db'
+- Done
+
+===
+
 Current Features :
  
 - Simple Register & Login
